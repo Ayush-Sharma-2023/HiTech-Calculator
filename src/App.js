@@ -62,7 +62,7 @@ function App() {
 
   return (
     <>
-      <h1>Hi-Tech Calculator</h1>
+      <h1>Hi Tech Calculator</h1>
       <div className="container">
         <div className="Calculator">
           <div id="display">
@@ -90,8 +90,8 @@ function App() {
         <div className="About">
           <p>Features</p>
           <ul>
-            <li>Made with React.Js</li>
-            <li>Added EventListeners to take input from keyboard</li>
+            <li>Made with React</li>
+            <li>Added EventListener, takes input from keyboard</li>
             <li>Performs modulus and power operations</li>
             <li>Follows BODMAS rule</li>
           </ul>
